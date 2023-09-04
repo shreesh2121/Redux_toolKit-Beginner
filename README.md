@@ -8,3 +8,7 @@ Ensure you have a React project set up. You can create one using tools like Crea
 
 # Install Redux Toolkit:
 If you haven't already, you'll need to install Redux Toolkit in your project. You can do this using npm or yarn:
+
+npm install @reduxjs/toolkit
+// OR
+yarn add @reduxjs/toolkit
