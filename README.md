@@ -131,6 +131,11 @@ export function Counter() {
   )
 }
 ```
+`UseSelector: UseSelector hooks allow you to extract data or the state from the Redux store using a selector function.`
+
+`UseDispatch: It allows you to send or dispatch an action to the redux store by giving the action as an argument to the dispatch variable.
+It is used to update the state of the component and return a new state.`
+
 Now, any time you click the "Increment" and "Decrement" buttons:
 
 + The corresponding Redux action will be dispatched to the store
