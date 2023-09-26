@@ -1,6 +1,12 @@
 # Redux_toolKit-Beginner
 Basic idea about Redux-toolkit in React Js for Beginner
 
+### Redux:
+Redux is a state management tool that makes it easier to pass data between components. Redux provides a store which makes the state inside components easier to maintain. Along with stores, react-redux introduces actions and reducers which work simultaneously with stores to make the state more predictable
+
+### Redux ToolKit(RTK):
+Redux Toolkit is used for writing redux code but in a more concise way. Redux Toolkit (RTK) solves problems that most of the developer’s face who used redux in a react application. RTK abstracts the basic redux code and provides us boilerplates that enable us to write redux code in less lines of code
+
 Creating a Redux store in a React application using the Redux Toolkit is quite straightforward and recommended for simplifying the process. Redux Toolkit provides a set of utilities to make working with Redux easier and more efficient. Here's a step-by-step guide on how to create a Redux store using Redux Toolkit in a React application:
 
 ## Setup Your React Project:
